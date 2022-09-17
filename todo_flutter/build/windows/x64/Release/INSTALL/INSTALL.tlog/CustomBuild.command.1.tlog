@@ -1,0 +1,10 @@
+^C:\USERS\JULIUS\DESKTOP\TODO-FLUTTER\TODO_FLUTTER\BUILD\WINDOWS\CMAKEFILES\65651A5D987F34CC7FED83687B1151E0\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

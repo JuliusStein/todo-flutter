@@ -1,0 +1,9 @@
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/data/icudtl.dat
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/flutter_windows.dll
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/data/flutter_assets/AssetManifest.json
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/data/flutter_assets/FontManifest.json
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/data/flutter_assets/NOTICES.Z
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/data/flutter_assets/shaders/ink_sparkle.frag
+C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/runner/Release/data/app.so

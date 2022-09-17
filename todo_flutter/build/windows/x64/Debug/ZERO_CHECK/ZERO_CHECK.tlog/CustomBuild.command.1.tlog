@@ -1,0 +1,10 @@
+^C:\USERS\JULIUS\DESKTOP\TODO-FLUTTER\TODO_FLUTTER\BUILD\WINDOWS\CMAKEFILES\65651A5D987F34CC7FED83687B1151E0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Julius/Desktop/todo-flutter/todo_flutter/windows -BC:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Julius/Desktop/todo-flutter/todo_flutter/build/windows/todo_flutter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
