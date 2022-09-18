@@ -1,16 +1,18 @@
 # todo_app
 
-A new Flutter project.
+A simple Flutter app to manage your todo list. Tested on Windows 10 and Android 10.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In order to run this application, please clone the repository, navigate to it in the terminal, and run the following commands:
 
-A few resources to get you started if this is your first Flutter project:
+```flutter run --no-sound-null-safety```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I followed an implementation of 
+[mrwdlr's Medium tutorial](https://medium.com/swlh/building-a-todolist-in-flutter-ed3f1d927658), which provided some references for how to implement the app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+Here is a brief overview of the features of this app:
+
+
+![Demo](https://media.giphy.com/media/JJHkcwzHsod8By5llI/giphy.gif)
